@@ -62,4 +62,4 @@ Five linked tables:
 
 **Preshika Shanmugavel**  
 MS Information Technology & Management (Data Science & Applied AI) — Illinois Institute of Technology  
-[Portfolio](https://preshi0024.github.io) · [LinkedIn](https://www.linkedin.com/in/preshikashanmugavel)
+[Portfolio](https://preshi0024.github.io) · [LinkedIn](https://www.linkedin.com/in/preshika-shanmugavel/)
